@@ -192,4 +192,4 @@ public R delete(@RequestBody Long[] ids){
 
 <img width="1031" height="110" alt="链接" src="https://github.com/user-attachments/assets/2f1dc25f-7348-4d18-8549-9d16230f48c1" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
